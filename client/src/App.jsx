@@ -6,7 +6,7 @@ const App = () => {
 
   const onFinish = () => {
     axios
-      .post("https://codevibe-backend.onrender.com/api/authRoutes", {
+      .post("https://codevibe-3.onrender.com/api/authRoutes", {
         username: "Jiya",
         Email: "jia@gmail.com",
         college:"JMIT",
