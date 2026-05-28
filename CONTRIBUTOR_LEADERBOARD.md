@@ -105,4 +105,5 @@ Last updated: 2026-05-28
 | 89 | [@tanvi1107](https://github.com/tanvi1107) | 5 | 0 | 0 | 1 |
 | 90 | [@vaibhav051422-collab](https://github.com/vaibhav051422-collab) | 5 | 0 | 0 | 1 |
 | 91 | [@varsha-2503](https://github.com/varsha-2503) | 5 | 0 | 0 | 1 |
-| 92 | [@yashvini-chirri](https://github.com/yashvini-chirri) | 5 | 0 | 0 | 1 |
+| 92 | [@weiwei-gitch](https://github.com/weiwei-gitch) | 5 | 0 | 0 | 1 |
+| 93 | [@yashvini-chirri](https://github.com/yashvini-chirri) | 5 | 0 | 0 | 1 |
